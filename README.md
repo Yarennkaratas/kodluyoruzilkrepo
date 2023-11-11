@@ -33,13 +33,12 @@ Kodluyoruz Eğitimi Kapsamında Açtığım İlk Repo
     
     <section id="tarif">
         <h2><i>-mutluluk topları-</i></h2>
-        <p>Temelde püsküvi ve sütten ya da kek ten oluşur.<br>Çok fazla çeşitlilik 
+	
+        <p>Temelde püsküvi ve sütten ya da kek ten oluşur.<br>Çok fazla çeşitlilik
             gösteriri biraz da bol malzeme koyarsak çok iyi olur.
         </p>
 
-            <!--tatlı hakkında resim
-        <img src="c:\Users\user\Downloads\istockphoto-1370778763-1024x1024.jpg" alt="Yemek/Tatlı Adı">-->
-
+            
         <a href="https://picsum.photos/">
             <img src="c:\Users\user\OneDrive\Masaüstü\KODLUYORUZ FRONT-END\mütlülük.jpg" alt="mutluluk Topları" />
           </a>
