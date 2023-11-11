@@ -31,7 +31,7 @@ Kodluyoruz Eğitimi Kapsamında Açtığım İlk Repo
         <h1>SEVDİĞİM TATLININ TARİFİ</h1>
     </header>
     
-    <section id="tarif">
+    
         <h2><i>-mutluluk topları-</i></h2>
 	
         <p>Temelde püsküvi ve sütten ya da kek ten oluşur.<br>Çok fazla çeşitlilik
